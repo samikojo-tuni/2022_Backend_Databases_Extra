@@ -1,2 +1,2 @@
-# 2022 Backend - Development and Devops, Database
-The course repository for TAMK course "Backend - Development and Devops", Database part.
+# 2022 Backend - Database
+The course repository for TAMK course Backend development, Database part.
