@@ -1,0 +1,4 @@
+Design a database for a blog. The database should have tables for blog posts, comments and users.
+Design appropriate columns for tables and define their types and attributes. Make sure that the 
+plan is in the 3rd normal form. You can draw your database design using e.g. diagrams.net
+application. Return your solution as an image file (.png or .jpg).

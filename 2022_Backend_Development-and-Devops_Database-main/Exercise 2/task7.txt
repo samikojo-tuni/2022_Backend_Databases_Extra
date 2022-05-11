@@ -1,0 +1,7 @@
+Explain the difference between INNER JOIN, LEFT (OUTER) JOIN and RIGHT (OUTER) JOIN.
+
+Inner Join includes only rows which have matching values in both tables to the result set.
+
+LEFT Join includes all rows from the left table into the result, but only those rows from the right table which have matching values in the left table.
+
+Right Join includes all rows from the right table into the result, but only those rows from the left table which have matching values in the right table.

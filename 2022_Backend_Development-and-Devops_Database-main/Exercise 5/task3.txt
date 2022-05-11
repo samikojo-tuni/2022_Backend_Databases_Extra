@@ -1,0 +1,3 @@
+Explain what is special about the database user root. Why root user should always have a strong password?
+Why remote login should always be disabled for root user?
+Explain how to disable remote login from root user.

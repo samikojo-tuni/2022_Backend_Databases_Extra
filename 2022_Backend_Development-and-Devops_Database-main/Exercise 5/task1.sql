@@ -1,0 +1,3 @@
+-- Create a database based on last week's task 3. In that task we designed a database for a blog. The database has
+-- to follow the plan created last week. If you need to update the plan, include an updated drawing of the
+-- database to your return. Add foreign key restrictions for the tables as well.

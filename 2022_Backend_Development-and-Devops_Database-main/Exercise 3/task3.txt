@@ -1,0 +1,2 @@
+Try to delete employees Steven Thorpe and Nancy Freehafer from the database.
+Does the delete operation succeed or not and why?

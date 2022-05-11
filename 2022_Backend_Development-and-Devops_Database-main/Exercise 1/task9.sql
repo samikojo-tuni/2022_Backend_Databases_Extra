@@ -1,0 +1,6 @@
+-- Create a new table called review. The table should have the following columns:
+-- - id
+-- - name of the reviewer, not null
+-- - headline
+-- - review text
+-- - a reference to the album id which is reviewed, not null
